@@ -46,21 +46,21 @@ export const CongratulationMessage: React.FC = () => {
         style={mainTextProps} 
         className="text-4xl md:text-6xl font-serif font-black mb-4 text-navy"
       >
-        Congratulations, <span className="text-gradient">Graduate!</span>
+        Congratulations, <span className="text-gradient">My Baby!</span>
       </animated.h1>
       
       <animated.div style={detailsProps}>
         <h2 className="text-xl md:text-2xl font-serif text-burgundy mb-6">
-          On Your Amazing Achievement
+          Graduation mo na
         </h2>
         
         <p className="text-gray-700 mb-6 leading-relaxed">
-          Today marks the culmination of your hard work, determination, and countless hours of study.
-          This graduation isn't just a ceremony; it's a celebration of your perseverance and the exciting future ahead.
+          unang una at di sa huli congrats baby sa Achievement mo ngayon mag patuloy kalang mabuhay
+          hanggat gusto mo andito lang ako palagi iloveyouuuu
         </p>
         
         <p className="text-lg text-navy font-medium">
-          I'm so incredibly proud of you!
+          PROUD NA PROUD AKO SAYO!
         </p>
       </animated.div>
     </div>

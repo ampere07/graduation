@@ -54,7 +54,7 @@ export const CelebrationPage: React.FC = () => {
               onClick={startCelebration}
               className="shine-effect bg-gradient-to-r from-gold to-amber-500 text-white font-bold py-4 px-10 rounded-full shadow-lg transform transition-transform duration-300 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gold focus:ring-opacity-50 text-xl"
             >
-              Click to Reveal a Special Message ✨
+              Pindutin moko beybe ✨
             </button>
           </div>
         ) : (
@@ -78,7 +78,7 @@ export const CelebrationPage: React.FC = () => {
                     onClick={triggerConfetti}
                     className="shine-effect bg-gradient-to-r from-gold to-amber-500 text-white font-bold py-3 px-8 rounded-full shadow-lg transform transition-transform duration-300 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gold focus:ring-opacity-50"
                   >
-                    Celebrate Again! 🎉
+                    Woohoooo 🎉
                   </button>
                 )}
               </div>
@@ -89,7 +89,7 @@ export const CelebrationPage: React.FC = () => {
       
       {/* Footer */}
       <footer className="text-center py-6 text-gray-600 text-sm">
-        <p>Made with ❤️ for your special day</p>
+        <p>Made with ❤️ para sa espesyal mong araw</p>
       </footer>
     </div>
   );
